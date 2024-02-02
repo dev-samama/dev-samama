@@ -13,6 +13,21 @@ Welcome to my GitHub profile! 🚀 As a seasoned Flutter developer, I specialize
 - **Development Tools**: Utilize Android Studio, Xcode, Git & GitHub, Figma, VSCode, Flutter Flow, and Postman.
 - **Other Services**: Cloud functions, push notifications, bug fixing, and integration of native features like cameras and Bluetooth.
 
+#### Backend Development
+- **Node.js & Express**: Building scalable and efficient backend services.
+- **MongoDB**: NoSQL database for flexible data handling.
+- **SQL**: Relational databases for structured data management.
+
+#### Deployment & Hosting
+- **Vercel**: Seamless deployment of frontend applications.
+- **Heroku**: Cloud platform for deploying, managing, and scaling applications.
+- **AWS**: Cloud computing services for a wide range of applications.
+- **Netlify**: Hosting and automation services for modern web projects.
+
+#### Data Science & Machine Learning
+- **Colab & Jupyter**: Interactive computing environments for data analysis and machine learning.
+- **Pandas, NumPy, Matplotlib**: Python libraries for data manipulation, numerical operations, and visualization.
+
 ### 📦 [Saveey](https://pub.dev/packages/saveey)
 
 Check out my pub.dev package, Saveey, designed to simplify and enhance your Flutter projects. [Saveey](https://pub.dev/packages/saveey) offers encrypted & secure storage pattern for flutter apps.
