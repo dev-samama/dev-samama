@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Samama Majeed.
 
-## Flutter Mobile App and Node JS Developer | 4+ Years of Experience | Python | Scraping | Data Analysis
+## Flutter Mobile App and Node JS Developer | 3+ Years of Experience | Python | Scraping | Data Analysis
 
 Welcome to my GitHub profile! 🚀 As a seasoned Flutter developer, I specialize in turning innovative ideas into real-world, production-ready applications. With over 4 years of experience, I've successfully crafted various mobile apps, including ecommerce, chatting, dating, and API-based applications.
 
